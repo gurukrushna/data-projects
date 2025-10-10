@@ -1,3 +1,8 @@
+### datasets -  historical trading data
+https://drive.google.com/file/d/1CquhmEhmUjG5-RpP1zIguFEvRVoKdId1/view?usp=drive_link
+#### trader behaviour data
+https://drive.google.com/file/d/1AvWBvOZjWIVhVtooqpmYRAq60at1atGK/view?usp=drive_link
+
 # 📊 User Profitability and Trading Behavior Analysis
 
 This project analyzes user trading data to uncover insights about profitability patterns and trading strategies.  
@@ -33,8 +38,8 @@ The goal is to identify **profit patterns**, **behavioral trends**, and **correl
 - **Matplotlib / Seaborn / Plotly** – Data visualization  
 - **Jupyter Notebook** – Interactive analysis environment  
 
----
 
-## 🧩 Project Structure
+
+
 
 
