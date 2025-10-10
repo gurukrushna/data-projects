@@ -1,4 +1,5 @@
-### datasets -  historical trading data
+### used datasets:
+####  historical trading moment data
 https://drive.google.com/file/d/1CquhmEhmUjG5-RpP1zIguFEvRVoKdId1/view?usp=drive_link
 #### trader behaviour data
 https://drive.google.com/file/d/1AvWBvOZjWIVhVtooqpmYRAq60at1atGK/view?usp=drive_link
